@@ -8,7 +8,13 @@ Take on a full web-scraping and data analysis project
 
 ## Part 2 - Scrape and Analyze Mars Weather Data
 
-Questions:
+Analysis
 
 ![](https://github.com/Gilaine-UOT/Web-Scraping_Mars/blob/main/Images/Capture-1.PNG)
 ![](https://github.com/Gilaine-UOT/Web-Scraping_Mars/blob/main/Images/Capture-2.PNG)
+
+## Find the average daily atmospheric pressure of all the months.
+## Plot the results as a bar chart.
+
+![](https://github.com/Gilaine-UOT/Web-Scraping_Mars/blob/main/Images/Capture_average%20temp%20by%20month.PNG)
+![](https://github.com/Gilaine-UOT/Web-Scraping_Mars/blob/main/Images/Pie_chart.PNG)
