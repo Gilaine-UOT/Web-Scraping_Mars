@@ -8,7 +8,7 @@ Take on a full web-scraping and data analysis project
 
 ## Part 2 - Scrape and Analyze Mars Weather Data
 
-Analysis
+## Analysis
 
 ![](https://github.com/Gilaine-UOT/Web-Scraping_Mars/blob/main/Images/Capture-1.PNG)
 ![](https://github.com/Gilaine-UOT/Web-Scraping_Mars/blob/main/Images/Capture-2.PNG)
