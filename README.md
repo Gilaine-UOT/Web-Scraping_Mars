@@ -1,5 +1,6 @@
 # Web-Scraping_Mars
-Take on a full web-scraping and data analysis project
+
+ Take on a full web-scraping and data analysis project
 
 
 ## Part 1 - Scrape Titles and Preview Text from Mars News
@@ -20,3 +21,5 @@ Take on a full web-scraping and data analysis project
 ![](https://github.com/Gilaine-UOT/Web-Scraping_Mars/blob/main/Images/Pie_chart.PNG)
 ![](https://github.com/Gilaine-UOT/Web-Scraping_Mars/blob/main/Images/Capture-4.PNG)
 ![](https://github.com/Gilaine-UOT/Web-Scraping_Mars)
+![](https://github.com/Gilaine-UOT/Web-Scraping_Mars/blob/main/Images/Pie-2.PNG)
+![](https://github.com/Gilaine-UOT/Web-Scraping_Mars/blob/main/Images/Capture%205.PNG)
