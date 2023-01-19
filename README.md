@@ -1,4 +1,15 @@
-## Web-Scraping_Mars
+# Web-Scraping_Mars
 Take on a full web-scraping and data analysis projec
 
-### Deliverable 1: Scrape titles and preview text from Mars news articles.
+
+## Part 1 - Scrape Titles and Preview Text from Mars News
+
+![](https://github.com/Gilaine-UOT/Web-Scraping_Mars/blob/main/Images/Dataframe.PNG)
+
+## Part 2 - Scrape and Analyze Mars Weather Data
+
+Questions
+
+![](https://github.com/Gilaine-UOT/Web-Scraping_Mars/blob/main/Images/Capture-1.PNG)
+![](https://github.com/Gilaine-UOT/Web-Scraping_Mars/blob/main/Images/Capture-2.PNG)
+ 
