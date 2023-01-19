@@ -23,4 +23,4 @@
 ![](https://github.com/Gilaine-UOT/Web-Scraping_Mars)
 ![](https://github.com/Gilaine-UOT/Web-Scraping_Mars/blob/main/Images/Pie-2.PNG)
 ![](https://github.com/Gilaine-UOT/Web-Scraping_Mars/blob/main/Images/Capture%205.PNG)
-![](![image](https://user-images.githubusercontent.com/111257885/213336652-008be539-51a2-4083-82d5-03f460a5a6ed.png
+
