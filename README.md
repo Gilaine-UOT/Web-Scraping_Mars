@@ -2,12 +2,12 @@
 
 
 ## Part 1 - Scrape Titles and Preview Text from Mars News
+## Part 2 - Scrape and Analyze Mars Weather Data - Analysis
+
 
 ![](https://github.com/Gilaine-UOT/Web-Scraping_Mars/blob/main/Images/Mars_list.PNG)
 
-## Part 2 - Scrape and Analyze Mars Weather Data
 
-## Analysis
 
 ![](https://github.com/Gilaine-UOT/Web-Scraping_Mars/blob/main/Images/Capture-1.PNG)
 ![](https://github.com/Gilaine-UOT/Web-Scraping_Mars/blob/main/Images/Capture-2.PNG)
