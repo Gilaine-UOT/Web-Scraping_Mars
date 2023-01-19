@@ -18,3 +18,5 @@ Take on a full web-scraping and data analysis project
 
 ![](https://github.com/Gilaine-UOT/Web-Scraping_Mars/blob/main/Images/Capture_average%20temp%20by%20month.PNG)
 ![](https://github.com/Gilaine-UOT/Web-Scraping_Mars/blob/main/Images/Pie_chart.PNG)
+![](https://github.com/Gilaine-UOT/Web-Scraping_Mars/blob/main/Images/Capture-4.PNG)
+![](https://github.com/Gilaine-UOT/Web-Scraping_Mars)
